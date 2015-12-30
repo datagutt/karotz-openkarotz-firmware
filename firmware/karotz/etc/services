@@ -25,6 +25,8 @@ tftp		69/udp
 finger		79/tcp
 www		80/tcp		http
 www		80/udp
+www		81/tcp		http
+www		81/udp
 pop3		110/tcp		pop-3
 pop3		110/udp		pop-3
 sunrpc		111/tcp		portmapper
